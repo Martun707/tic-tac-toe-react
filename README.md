@@ -1,3 +1,8 @@
+#Tik Tak Toe
+![tic tac toe](https://github.com/Martun707/tic-tac-toe-react/assets/115223928/cae255b4-836b-47be-8d60-91c46f46bf5a)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
